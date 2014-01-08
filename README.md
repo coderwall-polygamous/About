@@ -6,7 +6,7 @@
 
 ## How do I unlock the Walrus achievement?
 
-Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repo once a week and award you new achievements.
+Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repos once a week and award you new achievements.
 
 ## How do I leave all the Coderwall Badge organizations?
 
